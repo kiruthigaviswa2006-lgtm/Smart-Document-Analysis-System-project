@@ -1,0 +1,111 @@
+text,category
+Invoice Number INV001 GST Amount Due Bill To ABC Pvt Ltd,Invoice
+Invoice Date Customer Name Total Amount Payment Due,Invoice
+Tax Invoice GSTIN Product Quantity Total Bill,Invoice
+Purchase Invoice Vendor Amount Payable Invoice ID,Invoice
+Bill To Shipping Address Invoice Total GST,Invoice
+Invoice Number Discount Tax Grand Total,Invoice
+Customer Invoice Payment Terms Amount Due,Invoice
+Sales Invoice Item Price Quantity GST,Invoice
+Invoice Date Order Number Billing Address,Invoice
+Invoice Reference Total Tax Payment Status,Invoice
+Employee ID Gross Salary Net Salary Basic Pay,Pay Slip
+Payroll Employee Name Tax Deduction Net Pay,Pay Slip
+Salary Slip Employee Code HRA Basic Salary,Pay Slip
+Monthly Salary Provident Fund Net Salary,Pay Slip
+Employee Payroll Earnings Deductions Take Home Pay,Pay Slip
+Gross Pay Net Pay Income Tax Employee ID,Pay Slip
+Salary Statement Employee Name Payroll Month,Pay Slip
+Basic Pay Allowance Net Salary Employee,Pay Slip
+Payroll Details Salary Deduction Bonus,Pay Slip
+Employee Salary Slip Gross Earnings,Pay Slip
+Annual Financial Statement Assets Liabilities Revenue,Financial Documents
+Balance Sheet Profit Loss Financial Report,Financial Documents
+Income Statement Expenses Revenue Net Profit,Financial Documents
+Cash Flow Statement Financial Summary,Financial Documents
+Budget Forecast Financial Planning,Financial Documents
+Quarterly Financial Analysis Revenue Growth,Financial Documents
+Investment Portfolio Financial Statement,Financial Documents
+Audit Financial Report Balance Sheet,Financial Documents
+Expense Report Budget Allocation,Financial Documents
+Financial Performance Profit Analysis,Financial Documents
+Employee Name Department Designation Joining Date,Employee Records
+Employee Personal Details HR Record,Employee Records
+Staff Record Employee ID Address Phone,Employee Records
+Employee Attendance Department Manager,Employee Records
+HR Employee Information Experience,Employee Records
+Employee Profile Education Skills,Employee Records
+Employee Record Promotion History,Employee Records
+Employee Service Details Department,Employee Records
+Employee Leave Record Attendance,Employee Records
+HR Database Employee Information,Employee Records
+Agreement Terms Conditions Effective Date,Contracts
+Employment Contract Party Signature,Contracts
+Service Agreement Legal Terms,Contracts
+Contract Renewal Conditions,Contracts
+Business Agreement Payment Terms,Contracts
+Contract Document Authorized Signature,Contracts
+Vendor Agreement Service Period,Contracts
+Lease Contract Tenant Agreement,Contracts
+Legal Contract Clause Conditions,Contracts
+Memorandum Agreement Terms,Contracts
+Project Report Analysis Results Conclusion,Reports
+Research Report Findings Summary,Reports
+Monthly Performance Report Analysis,Reports
+Technical Report Observation Conclusion,Reports
+Business Report Executive Summary,Reports
+Annual Report Financial Analysis,Reports
+Survey Report Data Analysis,Reports
+Progress Report Current Status,Reports
+Performance Evaluation Report,Reports
+Final Project Report Recommendations,Reports
+Meeting Agenda Minutes Action Items,Meeting Notes
+Discussion Points Attendees Decisions,Meeting Notes
+Project Meeting Minutes Follow Up,Meeting Notes
+Team Meeting Agenda Tasks,Meeting Notes
+Client Meeting Notes Discussion,Meeting Notes
+Weekly Meeting Action Plan,Meeting Notes
+Meeting Attendance Decisions,Meeting Notes
+Review Meeting Agenda Summary,Meeting Notes
+Sprint Meeting Notes,Meeting Notes
+Board Meeting Minutes,Meeting Notes
+Installation Manual Configuration Troubleshooting,Technical Manuals
+Technical Manual Hardware Installation,Technical Manuals
+System Configuration User Instructions,Technical Manuals
+Maintenance Manual Error Resolution,Technical Manuals
+Technical Guide Installation Steps,Technical Manuals
+Network Configuration Manual,Technical Manuals
+Device Installation Troubleshooting,Technical Manuals
+API Technical Documentation,Technical Manuals
+Software Installation Manual,Technical Manuals
+Operating Instructions Technical Guide,Technical Manuals
+User Guide Login Dashboard Settings,User Guides
+Application User Manual Features,User Guides
+Step by Step User Instructions,User Guides
+Software User Guide Navigation,User Guides
+Product User Documentation,User Guides
+Quick Start Guide User,User Guides
+Help Guide Installation Usage,User Guides
+Application Tutorial User Guide,User Guides
+User Reference Manual,User Guides
+Guide for End Users,User Guides
+Office Circular Administrative Notice,Administrative Documents
+Official Memo Administrative Order,Administrative Documents
+Department Notification Office Procedure,Administrative Documents
+Administrative Approval Letter,Administrative Documents
+Office Policy Administrative Rules,Administrative Documents
+Internal Office Communication,Administrative Documents
+Administration Department Notice,Administrative Documents
+Office Management Document,Administrative Documents
+Administrative Record Office,Administrative Documents
+Official Administrative Circular,Administrative Documents
+Random Notes Personal Reminder,Miscellaneous Documents
+Shopping List Grocery Items,Miscellaneous Documents
+General Text Sample,Miscellaneous Documents
+Miscellaneous Information,Miscellaneous Documents
+Draft Notes Temporary Text,Miscellaneous Documents
+Personal Memo Reminder,Miscellaneous Documents
+Uncategorized Document Sample,Miscellaneous Documents
+Simple Text Without Category,Miscellaneous Documents
+Random Content Example,Miscellaneous Documents
+General Information File,Miscellaneous Documents
