@@ -1,0 +1,37 @@
+{
+    "input_folder": "input_documents",
+    "output_folder": "output",
+    "export_csv": "output/classification_results.csv",
+
+    "supported_formats": [
+        ".pdf",
+        ".docx",
+        ".xlsx",
+        ".xls",
+        ".csv",
+        ".txt",
+        ".jpg",
+        ".jpeg",
+        ".png"
+    ],
+
+    "logging": {
+        "level": "INFO",
+        "log_file": "logs/application.log",
+        "debug": true,
+        "warning": true,
+        "error": true,
+        "retain_days": 7,
+        "auto_delete_old_logs": true
+    },
+
+    "cache": {
+        "enable_cache": true,
+        "cache_folder": "cache"
+    },
+
+    "classification": {
+        "confidence_threshold": 0.40,
+        "default_category": "Miscellaneous Documents"
+    }
+}
